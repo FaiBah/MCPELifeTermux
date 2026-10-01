@@ -11,7 +11,7 @@ Browse Minecraft Bedrock versions and download information directly from your te
 Installs the required packages and Python library.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/FaiBah/mcpelife-termux/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/FaiBah/MCPELifeTermux/main/setup.sh | bash
 ```
 
 ## ▶️ Launch
@@ -19,7 +19,7 @@ curl -fsSL https://raw.githubusercontent.com/FaiBah/mcpelife-termux/main/setup.s
 Starts the MCPELife CLI directly.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/FaiBah/mcpelife-termux/main/run.sh | bash
+curl -fsSL https://raw.githubusercontent.com/FaiBah/MCPELifeTermux/main/run.sh | bash
 ```
 
 ---
